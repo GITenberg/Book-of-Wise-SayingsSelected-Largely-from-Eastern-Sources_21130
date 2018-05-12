@@ -1,0 +1,39 @@
+_repo: Book-of-Wise-SayingsSelected-Largely-from-Eastern-Sources_21130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clouston, W. A. (William Alexander)
+    alias: Clouston, William Alexander
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '4784'
+    url: http://www.gutenberg.org/2009/agents/4784
+    wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Clouston
+description: When a man has reached middle-age he generally feels with tenfold force
+  the truth of those ""sayings of the wise"" which he learned in his early years,
+  and has cause to regret, as well as wonder, that he had not all along followed their
+  wholesome teaching. For it is to the young, who are about to cross the threshold
+  of active life, that such terse convincing sentences are more especially addressed,
+  and, spite of the proverbial heedlessness of youth, there will be found many who
+  are not deaf to this kind of instruction, if their moral environment be favourable.
+  But, even after the s.
+gutenberg_issued: '2007-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21130'
+  lccn: '01001566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Maxims'
+- !lcsh 'Quotations'
+title: 'Book of Wise Sayings
+
+  Selected Largely from Eastern Sources'
+url: http://www.gutenberg.org/ebooks/21130
